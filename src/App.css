@@ -26,10 +26,12 @@ body {
 h1 {
   font-size: 3.2em;
   line-height: 1.1;
+  color: aqua;
 }
 
 h3, p {
   margin: 0;
+  color: blue;
 }
 
 form {
@@ -69,6 +71,7 @@ ul{
 
 li {
   list-style-type: none;
+  color: blue;
 }
 
 #root {
